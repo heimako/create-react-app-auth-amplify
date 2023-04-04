@@ -26,7 +26,7 @@ class App extends Component {
           </a>
         </header>
         <h1>Sample App</h1>
-        <p>サンプリアプリケーションです_テスト上田</p>
+        <p>サンプリアプリケーションです_テスト</p>
       </div>
     );
   }
